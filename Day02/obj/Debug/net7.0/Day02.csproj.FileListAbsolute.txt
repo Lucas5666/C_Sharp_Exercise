@@ -1,0 +1,15 @@
+/Users/lucai/Projects/SolutionBase/Day02/bin/Debug/net7.0/Day02
+/Users/lucai/Projects/SolutionBase/Day02/bin/Debug/net7.0/Day02.deps.json
+/Users/lucai/Projects/SolutionBase/Day02/bin/Debug/net7.0/Day02.runtimeconfig.json
+/Users/lucai/Projects/SolutionBase/Day02/bin/Debug/net7.0/Day02.dll
+/Users/lucai/Projects/SolutionBase/Day02/bin/Debug/net7.0/Day02.pdb
+/Users/lucai/Projects/SolutionBase/Day02/obj/Debug/net7.0/Day02.csproj.AssemblyReference.cache
+/Users/lucai/Projects/SolutionBase/Day02/obj/Debug/net7.0/Day02.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lucai/Projects/SolutionBase/Day02/obj/Debug/net7.0/Day02.AssemblyInfoInputs.cache
+/Users/lucai/Projects/SolutionBase/Day02/obj/Debug/net7.0/Day02.AssemblyInfo.cs
+/Users/lucai/Projects/SolutionBase/Day02/obj/Debug/net7.0/Day02.csproj.CoreCompileInputs.cache
+/Users/lucai/Projects/SolutionBase/Day02/obj/Debug/net7.0/Day02.dll
+/Users/lucai/Projects/SolutionBase/Day02/obj/Debug/net7.0/refint/Day02.dll
+/Users/lucai/Projects/SolutionBase/Day02/obj/Debug/net7.0/Day02.pdb
+/Users/lucai/Projects/SolutionBase/Day02/obj/Debug/net7.0/Day02.genruntimeconfig.cache
+/Users/lucai/Projects/SolutionBase/Day02/obj/Debug/net7.0/ref/Day02.dll

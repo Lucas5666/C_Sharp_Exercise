@@ -1,0 +1,15 @@
+/Users/lucai/Projects/SolutionBase/Day05Linked_List/bin/Debug/net7.0/Day05Linked_List
+/Users/lucai/Projects/SolutionBase/Day05Linked_List/bin/Debug/net7.0/Day05Linked_List.deps.json
+/Users/lucai/Projects/SolutionBase/Day05Linked_List/bin/Debug/net7.0/Day05Linked_List.runtimeconfig.json
+/Users/lucai/Projects/SolutionBase/Day05Linked_List/bin/Debug/net7.0/Day05Linked_List.dll
+/Users/lucai/Projects/SolutionBase/Day05Linked_List/bin/Debug/net7.0/Day05Linked_List.pdb
+/Users/lucai/Projects/SolutionBase/Day05Linked_List/obj/Debug/net7.0/Day05Linked_List.csproj.AssemblyReference.cache
+/Users/lucai/Projects/SolutionBase/Day05Linked_List/obj/Debug/net7.0/Day05Linked_List.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lucai/Projects/SolutionBase/Day05Linked_List/obj/Debug/net7.0/Day05Linked_List.AssemblyInfoInputs.cache
+/Users/lucai/Projects/SolutionBase/Day05Linked_List/obj/Debug/net7.0/Day05Linked_List.AssemblyInfo.cs
+/Users/lucai/Projects/SolutionBase/Day05Linked_List/obj/Debug/net7.0/Day05Linked_List.csproj.CoreCompileInputs.cache
+/Users/lucai/Projects/SolutionBase/Day05Linked_List/obj/Debug/net7.0/Day05Linked_List.dll
+/Users/lucai/Projects/SolutionBase/Day05Linked_List/obj/Debug/net7.0/refint/Day05Linked_List.dll
+/Users/lucai/Projects/SolutionBase/Day05Linked_List/obj/Debug/net7.0/Day05Linked_List.pdb
+/Users/lucai/Projects/SolutionBase/Day05Linked_List/obj/Debug/net7.0/Day05Linked_List.genruntimeconfig.cache
+/Users/lucai/Projects/SolutionBase/Day05Linked_List/obj/Debug/net7.0/ref/Day05Linked_List.dll

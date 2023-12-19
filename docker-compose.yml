@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  josnandxml:
+    image: ${DOCKER_REGISTRY-}josnandxml
+    build:
+      context: .
+      dockerfile: JosnAndXml/Dockerfile

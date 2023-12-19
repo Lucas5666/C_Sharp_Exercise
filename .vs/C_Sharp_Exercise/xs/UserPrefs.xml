@@ -1,20 +1,22 @@
 ﻿<Properties StartupConfiguration="{086CCD0F-4A15-494F-9D7D-F6052FC4392F}|Default">
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.Workbench ActiveDocument="C_Sharp_Exercise/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="../C#练习/Sort/Program.cs">
     <Files>
-      <File FileName="../C#练习/Sort/Program.cs" Line="119" Column="34" />
-      <File FileName="C_Sharp_Exercise/Program.cs" Line="16" Column="1" NotebookId="1" />
+      <File FileName="../C#练习/Sort/Program.cs" Line="25" Column="31" />
+      <File FileName="C_Sharp_Exercise/Program.cs" Line="24" Column="43" NotebookId="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="C_Sharp_Exercise" expanded="True">
-            <Node name="C_Sharp_Exercise" expanded="True" />
+            <Node name="C_Sharp_Exercise" expanded="True" selected="True" />
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore>
       <Breakpoint file="/Users/lucai/Projects/C#练习/StringAndArrary/Test.cs" line="83" column="1" />
@@ -24,7 +26,5 @@
       <Breakpoint file="/Users/lucai/Projects/C#练习/JosnAndXml/Program.cs" line="109" column="1" />
     </BreakpointStore>
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.ItemProperties.C__Sharp__Exercise PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
 </Properties>

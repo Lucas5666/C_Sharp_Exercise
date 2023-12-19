@@ -1,0 +1,15 @@
+/Users/lucai/Projects/SolutionBase/Huiwen_String/bin/Debug/net7.0/Huiwen_String
+/Users/lucai/Projects/SolutionBase/Huiwen_String/bin/Debug/net7.0/Huiwen_String.deps.json
+/Users/lucai/Projects/SolutionBase/Huiwen_String/bin/Debug/net7.0/Huiwen_String.runtimeconfig.json
+/Users/lucai/Projects/SolutionBase/Huiwen_String/bin/Debug/net7.0/Huiwen_String.dll
+/Users/lucai/Projects/SolutionBase/Huiwen_String/bin/Debug/net7.0/Huiwen_String.pdb
+/Users/lucai/Projects/SolutionBase/Huiwen_String/obj/Debug/net7.0/Huiwen_String.csproj.AssemblyReference.cache
+/Users/lucai/Projects/SolutionBase/Huiwen_String/obj/Debug/net7.0/Huiwen_String.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lucai/Projects/SolutionBase/Huiwen_String/obj/Debug/net7.0/Huiwen_String.AssemblyInfoInputs.cache
+/Users/lucai/Projects/SolutionBase/Huiwen_String/obj/Debug/net7.0/Huiwen_String.AssemblyInfo.cs
+/Users/lucai/Projects/SolutionBase/Huiwen_String/obj/Debug/net7.0/Huiwen_String.csproj.CoreCompileInputs.cache
+/Users/lucai/Projects/SolutionBase/Huiwen_String/obj/Debug/net7.0/Huiwen_String.dll
+/Users/lucai/Projects/SolutionBase/Huiwen_String/obj/Debug/net7.0/refint/Huiwen_String.dll
+/Users/lucai/Projects/SolutionBase/Huiwen_String/obj/Debug/net7.0/Huiwen_String.pdb
+/Users/lucai/Projects/SolutionBase/Huiwen_String/obj/Debug/net7.0/Huiwen_String.genruntimeconfig.cache
+/Users/lucai/Projects/SolutionBase/Huiwen_String/obj/Debug/net7.0/ref/Huiwen_String.dll

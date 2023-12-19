@@ -1,0 +1,15 @@
+/Users/lucai/Projects/SolutionBase/Sort/bin/Debug/net7.0/Sort
+/Users/lucai/Projects/SolutionBase/Sort/bin/Debug/net7.0/Sort.deps.json
+/Users/lucai/Projects/SolutionBase/Sort/bin/Debug/net7.0/Sort.runtimeconfig.json
+/Users/lucai/Projects/SolutionBase/Sort/bin/Debug/net7.0/Sort.dll
+/Users/lucai/Projects/SolutionBase/Sort/bin/Debug/net7.0/Sort.pdb
+/Users/lucai/Projects/SolutionBase/Sort/obj/Debug/net7.0/Sort.csproj.AssemblyReference.cache
+/Users/lucai/Projects/SolutionBase/Sort/obj/Debug/net7.0/Sort.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lucai/Projects/SolutionBase/Sort/obj/Debug/net7.0/Sort.AssemblyInfoInputs.cache
+/Users/lucai/Projects/SolutionBase/Sort/obj/Debug/net7.0/Sort.AssemblyInfo.cs
+/Users/lucai/Projects/SolutionBase/Sort/obj/Debug/net7.0/Sort.csproj.CoreCompileInputs.cache
+/Users/lucai/Projects/SolutionBase/Sort/obj/Debug/net7.0/Sort.dll
+/Users/lucai/Projects/SolutionBase/Sort/obj/Debug/net7.0/refint/Sort.dll
+/Users/lucai/Projects/SolutionBase/Sort/obj/Debug/net7.0/Sort.pdb
+/Users/lucai/Projects/SolutionBase/Sort/obj/Debug/net7.0/Sort.genruntimeconfig.cache
+/Users/lucai/Projects/SolutionBase/Sort/obj/Debug/net7.0/ref/Sort.dll

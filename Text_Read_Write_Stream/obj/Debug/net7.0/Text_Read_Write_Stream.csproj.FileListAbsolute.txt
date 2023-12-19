@@ -1,0 +1,15 @@
+/Users/lucai/Projects/Text_Read_Write_Stream/bin/Debug/net7.0/Text_Read_Write_Stream
+/Users/lucai/Projects/Text_Read_Write_Stream/bin/Debug/net7.0/Text_Read_Write_Stream.deps.json
+/Users/lucai/Projects/Text_Read_Write_Stream/bin/Debug/net7.0/Text_Read_Write_Stream.runtimeconfig.json
+/Users/lucai/Projects/Text_Read_Write_Stream/bin/Debug/net7.0/Text_Read_Write_Stream.dll
+/Users/lucai/Projects/Text_Read_Write_Stream/bin/Debug/net7.0/Text_Read_Write_Stream.pdb
+/Users/lucai/Projects/Text_Read_Write_Stream/obj/Debug/net7.0/Text_Read_Write_Stream.csproj.AssemblyReference.cache
+/Users/lucai/Projects/Text_Read_Write_Stream/obj/Debug/net7.0/Text_Read_Write_Stream.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lucai/Projects/Text_Read_Write_Stream/obj/Debug/net7.0/Text_Read_Write_Stream.AssemblyInfoInputs.cache
+/Users/lucai/Projects/Text_Read_Write_Stream/obj/Debug/net7.0/Text_Read_Write_Stream.AssemblyInfo.cs
+/Users/lucai/Projects/Text_Read_Write_Stream/obj/Debug/net7.0/Text_Read_Write_Stream.csproj.CoreCompileInputs.cache
+/Users/lucai/Projects/Text_Read_Write_Stream/obj/Debug/net7.0/Text_Read_Write_Stream.dll
+/Users/lucai/Projects/Text_Read_Write_Stream/obj/Debug/net7.0/refint/Text_Read_Write_Stream.dll
+/Users/lucai/Projects/Text_Read_Write_Stream/obj/Debug/net7.0/Text_Read_Write_Stream.pdb
+/Users/lucai/Projects/Text_Read_Write_Stream/obj/Debug/net7.0/Text_Read_Write_Stream.genruntimeconfig.cache
+/Users/lucai/Projects/Text_Read_Write_Stream/obj/Debug/net7.0/ref/Text_Read_Write_Stream.dll

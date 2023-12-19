@@ -1,0 +1,15 @@
+/Users/lucai/Projects/SolutionBase/Day04_DataStructure_1/bin/Debug/net7.0/Day04_DataStructure_1
+/Users/lucai/Projects/SolutionBase/Day04_DataStructure_1/bin/Debug/net7.0/Day04_DataStructure_1.deps.json
+/Users/lucai/Projects/SolutionBase/Day04_DataStructure_1/bin/Debug/net7.0/Day04_DataStructure_1.runtimeconfig.json
+/Users/lucai/Projects/SolutionBase/Day04_DataStructure_1/bin/Debug/net7.0/Day04_DataStructure_1.dll
+/Users/lucai/Projects/SolutionBase/Day04_DataStructure_1/bin/Debug/net7.0/Day04_DataStructure_1.pdb
+/Users/lucai/Projects/SolutionBase/Day04_DataStructure_1/obj/Debug/net7.0/Day04_DataStructure_1.csproj.AssemblyReference.cache
+/Users/lucai/Projects/SolutionBase/Day04_DataStructure_1/obj/Debug/net7.0/Day04_DataStructure_1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lucai/Projects/SolutionBase/Day04_DataStructure_1/obj/Debug/net7.0/Day04_DataStructure_1.AssemblyInfoInputs.cache
+/Users/lucai/Projects/SolutionBase/Day04_DataStructure_1/obj/Debug/net7.0/Day04_DataStructure_1.AssemblyInfo.cs
+/Users/lucai/Projects/SolutionBase/Day04_DataStructure_1/obj/Debug/net7.0/Day04_DataStructure_1.csproj.CoreCompileInputs.cache
+/Users/lucai/Projects/SolutionBase/Day04_DataStructure_1/obj/Debug/net7.0/Day04_DataStructure_1.dll
+/Users/lucai/Projects/SolutionBase/Day04_DataStructure_1/obj/Debug/net7.0/refint/Day04_DataStructure_1.dll
+/Users/lucai/Projects/SolutionBase/Day04_DataStructure_1/obj/Debug/net7.0/Day04_DataStructure_1.pdb
+/Users/lucai/Projects/SolutionBase/Day04_DataStructure_1/obj/Debug/net7.0/Day04_DataStructure_1.genruntimeconfig.cache
+/Users/lucai/Projects/SolutionBase/Day04_DataStructure_1/obj/Debug/net7.0/ref/Day04_DataStructure_1.dll

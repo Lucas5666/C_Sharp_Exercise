@@ -1,0 +1,15 @@
+/Users/lucai/Projects/SolutionBase/StringAndArrary/bin/Debug/net7.0/StringAndArrary
+/Users/lucai/Projects/SolutionBase/StringAndArrary/bin/Debug/net7.0/StringAndArrary.deps.json
+/Users/lucai/Projects/SolutionBase/StringAndArrary/bin/Debug/net7.0/StringAndArrary.runtimeconfig.json
+/Users/lucai/Projects/SolutionBase/StringAndArrary/bin/Debug/net7.0/StringAndArrary.dll
+/Users/lucai/Projects/SolutionBase/StringAndArrary/bin/Debug/net7.0/StringAndArrary.pdb
+/Users/lucai/Projects/SolutionBase/StringAndArrary/obj/Debug/net7.0/StringAndArray.csproj.AssemblyReference.cache
+/Users/lucai/Projects/SolutionBase/StringAndArrary/obj/Debug/net7.0/StringAndArray.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lucai/Projects/SolutionBase/StringAndArrary/obj/Debug/net7.0/StringAndArray.AssemblyInfoInputs.cache
+/Users/lucai/Projects/SolutionBase/StringAndArrary/obj/Debug/net7.0/StringAndArray.AssemblyInfo.cs
+/Users/lucai/Projects/SolutionBase/StringAndArrary/obj/Debug/net7.0/StringAndArray.csproj.CoreCompileInputs.cache
+/Users/lucai/Projects/SolutionBase/StringAndArrary/obj/Debug/net7.0/StringAndArrary.dll
+/Users/lucai/Projects/SolutionBase/StringAndArrary/obj/Debug/net7.0/refint/StringAndArrary.dll
+/Users/lucai/Projects/SolutionBase/StringAndArrary/obj/Debug/net7.0/StringAndArrary.pdb
+/Users/lucai/Projects/SolutionBase/StringAndArrary/obj/Debug/net7.0/StringAndArray.genruntimeconfig.cache
+/Users/lucai/Projects/SolutionBase/StringAndArrary/obj/Debug/net7.0/ref/StringAndArrary.dll

@@ -1,0 +1,15 @@
+/Users/lucai/Projects/SolutionBase/Queue/bin/Debug/net7.0/Queue
+/Users/lucai/Projects/SolutionBase/Queue/bin/Debug/net7.0/Queue.deps.json
+/Users/lucai/Projects/SolutionBase/Queue/bin/Debug/net7.0/Queue.runtimeconfig.json
+/Users/lucai/Projects/SolutionBase/Queue/bin/Debug/net7.0/Queue.dll
+/Users/lucai/Projects/SolutionBase/Queue/bin/Debug/net7.0/Queue.pdb
+/Users/lucai/Projects/SolutionBase/Queue/obj/Debug/net7.0/Queue.csproj.AssemblyReference.cache
+/Users/lucai/Projects/SolutionBase/Queue/obj/Debug/net7.0/Queue.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lucai/Projects/SolutionBase/Queue/obj/Debug/net7.0/Queue.AssemblyInfoInputs.cache
+/Users/lucai/Projects/SolutionBase/Queue/obj/Debug/net7.0/Queue.AssemblyInfo.cs
+/Users/lucai/Projects/SolutionBase/Queue/obj/Debug/net7.0/Queue.csproj.CoreCompileInputs.cache
+/Users/lucai/Projects/SolutionBase/Queue/obj/Debug/net7.0/Queue.dll
+/Users/lucai/Projects/SolutionBase/Queue/obj/Debug/net7.0/refint/Queue.dll
+/Users/lucai/Projects/SolutionBase/Queue/obj/Debug/net7.0/Queue.pdb
+/Users/lucai/Projects/SolutionBase/Queue/obj/Debug/net7.0/Queue.genruntimeconfig.cache
+/Users/lucai/Projects/SolutionBase/Queue/obj/Debug/net7.0/ref/Queue.dll

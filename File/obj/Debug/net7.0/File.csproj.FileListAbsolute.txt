@@ -1,0 +1,16 @@
+/Users/lucai/Projects/File/bin/Debug/net7.0/TextFile.txt
+/Users/lucai/Projects/File/bin/Debug/net7.0/File
+/Users/lucai/Projects/File/bin/Debug/net7.0/File.deps.json
+/Users/lucai/Projects/File/bin/Debug/net7.0/File.runtimeconfig.json
+/Users/lucai/Projects/File/bin/Debug/net7.0/File.dll
+/Users/lucai/Projects/File/bin/Debug/net7.0/File.pdb
+/Users/lucai/Projects/File/obj/Debug/net7.0/File.csproj.AssemblyReference.cache
+/Users/lucai/Projects/File/obj/Debug/net7.0/File.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lucai/Projects/File/obj/Debug/net7.0/File.AssemblyInfoInputs.cache
+/Users/lucai/Projects/File/obj/Debug/net7.0/File.AssemblyInfo.cs
+/Users/lucai/Projects/File/obj/Debug/net7.0/File.csproj.CoreCompileInputs.cache
+/Users/lucai/Projects/File/obj/Debug/net7.0/File.dll
+/Users/lucai/Projects/File/obj/Debug/net7.0/refint/File.dll
+/Users/lucai/Projects/File/obj/Debug/net7.0/File.pdb
+/Users/lucai/Projects/File/obj/Debug/net7.0/File.genruntimeconfig.cache
+/Users/lucai/Projects/File/obj/Debug/net7.0/ref/File.dll
